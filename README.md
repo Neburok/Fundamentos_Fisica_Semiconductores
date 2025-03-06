@@ -1,5 +1,5 @@
 # Fundamentos de Física de Semiconductores
-
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![GitHub license](https://img.shields.io/github/license/Neburok/Fundamentos_Fisica_Semiconductores)](https://github.com/Neburok/Fundamentos_Fisica_Semiconductores/blob/main/LICENSE)
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://neburok.github.io/Fundamentos_Fisica_Semiconductores)
 
