@@ -1,0 +1,55 @@
+# Formato del libro
+format: jb-book
+root: intro
+
+# Capítulos principales
+parts:
+  - caption: Prefacio
+    chapters:
+    - file: prefacio/acerca_del_libro
+    - file: prefacio/como_usar_este_libro
+    - file: prefacio/requisitos_previos
+
+  - caption: Fundamentos de la física del estado sólido
+    chapters:
+    - file: capitulos/cap01_fundamentos/index
+      sections:
+      - file: capitulos/cap01_fundamentos/1.1-space-lattices
+      - file: capitulos/cap01_fundamentos/1.2-teoria-bandas
+      - file: capitulos/cap01_fundamentos/1.3-fisica-cuantica-solidos
+      - file: capitulos/cap01_fundamentos/1.4-ejercicios
+
+  - caption: Propiedades de los semiconductores
+    chapters:
+    - file: capitulos/cap02_propiedades/index
+      sections:
+      - file: capitulos/cap02_propiedades/2.1-semiconductores-intr-extr
+      - file: capitulos/cap02_propiedades/2.2-dopaje
+      - file: capitulos/cap02_propiedades/2.3-portadores-carga
+      - file: capitulos/cap02_propiedades/2.4-fenomenos-transporte
+      - file: capitulos/cap02_propiedades/2.5-ejercicios
+
+  - caption: Dispositivos semiconductores básicos
+    chapters:
+    - file: capitulos/cap03_dispbasicos/index
+      sections:
+      - file: capitulos/cap03_dispbasicos/3.1-uniones-pn
+      - file: capitulos/cap03_dispbasicos/3.2-transistores
+      - file: capitulos/cap03_dispbasicos/3.3-diodos
+      - file: capitulos/cap03_dispbasicos/3.4-ejercicios
+
+  - caption: Dispositivos avanzados y aplicaciones
+    chapters:
+    - file: capitulos/cap04_dispavanzados/index
+      sections:
+      - file: capitulos/cap04_dispavanzados/4.1-dispositivos-optoelectronicos
+      - file: capitulos/cap04_dispavanzados/4.2-circuitos-integrados
+      - file: capitulos/cap04_dispavanzados/4.3-tecnologias-emergentes
+      - file: capitulos/cap04_dispavanzados/4.4-ejercicios
+
+  - caption: Apéndices
+    chapters:
+    - file: apendices/glosario
+    - file: apendices/referencias
+    - file: apendices/recursos-adicionales
+
