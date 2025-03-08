@@ -14,7 +14,7 @@ parts:
     chapters:
     - file: capitulos/cap01_fundamentos/index
       sections:
-      - file: capitulos/cap01_fundamentos/1.1-space-lattices
+      - file: capitulos/cap01_fundamentos/1.1-estructura-cristalina
       - file: capitulos/cap01_fundamentos/1.2-teoria-bandas
       - file: capitulos/cap01_fundamentos/1.3-fisica-cuantica-solidos
       - file: capitulos/cap01_fundamentos/1.4-ejercicios

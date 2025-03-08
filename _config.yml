@@ -3,18 +3,6 @@ title: Fundamentos de Física de Semiconductores
 author: Rubén Velázquez Hernández
 logo: recursos/imagenes/Logo_uteq.png
 copyright: "2025"
-html:
-  use_repository_button: true
-  extra_footer: |
-    <div>
-      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" />
-      </a>
-      <br />Este trabajo está bajo una 
-      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-        Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-      </a>.
-    </div>
 only_build_toc_files: true
 
 # Configuración de Jupyter Book
@@ -44,4 +32,15 @@ sphinx:
     html_js_files:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
 
-
+html:
+  use_repository_button: true
+  extra_footer: |
+    <div>
+      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" />
+      </a>
+      <br />Este trabajo está bajo una 
+      <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+      </a>.
+    </div>
